@@ -3,15 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://howencil.github.io/categories/</loc>
+    <loc>https://howencilx.github.io/</loc>
+    <lastmod>2020-07-19T23:06:19+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://howencil.github.io/</loc>
+    <loc>https://howencilx.github.io/post/first/</loc>
+    <lastmod>2020-07-19T23:06:19+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://howencil.github.io/tags/</loc>
+    <loc>https://howencilx.github.io/post/</loc>
+    <lastmod>2020-07-19T23:06:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://howencilx.github.io/about/</loc>
+    <lastmod>2020-07-19T23:06:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://howencilx.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://howencilx.github.io/tags/</loc>
   </url>
   
 </urlset>
